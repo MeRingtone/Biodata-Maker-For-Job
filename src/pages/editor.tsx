@@ -12,6 +12,7 @@ const Editor: NextPage = () => {
         <title>Biodata Maker For Job Editor Page</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" href="/draggar.css"></link>
+        <meta name="theme-color" content="#05fcc5"></meta>
         {/* Google Analytics Script */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6S926GZYM"></script>
         <script
